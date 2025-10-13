@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+## Name: MADHUMITHA R R
+## Reg no: 212224240083
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -27,6 +29,11 @@ This commands includes
 <BR>
 
 ## Output
+<img width="1495" height="965" alt="Screenshot 2025-10-13 121326" src="https://github.com/user-attachments/assets/0ff35bee-1430-4a4b-ab9b-a435de28e82f" />
+<img width="1342" height="1091" alt="Screenshot 2025-10-13 121400" src="https://github.com/user-attachments/assets/f71ba9f8-3360-4b87-898f-fb2c40acf95a" />
+<img width="1138" height="781" alt="Screenshot 2025-10-13 121413" src="https://github.com/user-attachments/assets/22097cca-5a26-4a17-8fa7-0b844e0f17ea" />
+
+
 
 ## Result
 Thus Execution of Network commands Performed 
